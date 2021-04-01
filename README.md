@@ -43,3 +43,5 @@ This is a fun question, and please treat it as such.
 Without being disresepctul or adversarial, please defend your choice. Try and frame it as an optimisation rather than a right v/s wrong choice. And feel free to point to real life examples and online commentary to illustrate that.
 
 Present a short written answer for this and prepare some thoughts for a verbal discussion.
+
+**YOU CAN ADD YOUR WRITTEN DISCUSSIONS BELOW**
