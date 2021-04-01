@@ -3,9 +3,8 @@
 Hi, Welcome to the problem statement of the Relevvo Engineering Test. Before we start with the actual problem, a few notes on the thinking behind the design of this test for which there are two parts:
 
 1. Programming Problem. This part has a dual purpose:
-  a. Knowledge of algorithms and programming.
-  b. GitHub dev/PR process during the solving of the presented problem. Please submit multiple PRs and self approve them as you evolve your solution.
-  
+    a. Knowledge of algorithms and programming.
+    b. GitHub dev/PR process during the solving of the presented problem. Please submit multiple PRs and self approve them as you evolve your solution.
 2. Debate Question. To showcase the ability to articulate.
 
 But first, I'd like to make clear as to what this test is not. We are interviewing senior people for a startup, not mid level or junior people in a FAANG setup. So,
