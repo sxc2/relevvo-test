@@ -44,4 +44,4 @@ Without being disresepctul or adversarial, please defend your choice. Try and fr
 
 Present a short written answer for this and prepare some thoughts for a verbal discussion.
 
-**YOU CAN ADD YOUR WRITTEN DISCUSSIONS BELOW**
+**YOU CAN ADD YOUR WRITTEN DISCUSSIONS BELOW IN THIS README**
