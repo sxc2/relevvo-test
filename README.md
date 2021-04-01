@@ -15,7 +15,7 @@ the things we are lookng for are slightly different:
 3. The ability to make quick trade-offs, usually in favour of simplicity and productivity at the expense of perfection but not to the extent that the solution is barely readable or barely scales.
 4. The ability to be resourceful. Or here is a trick question: What is the best code ever written?
 5. The ability to do TDD and insert intelligent comments and explanations within code. And in the same breath, to use advanced frameworks which might improve the performance and readability of the tests. And some intelligent selection of what is worth testing in the first place.
-6. The ability to arhitect for future 'improvability'.
+6. The ability to architect for future 'improvability'.
 7. The ability to provide nuanced reasoning of design choices.
 
 This is not a FAANG interview. I am not looking for very advanced architectures or scholarly knowledge of advanced programming paradigms. I don't expect you to remember advanced algorithms learnt in CS courses which you typically do not encounter in regular work. And there won't be any tricks or puzzles.
