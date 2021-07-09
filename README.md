@@ -26,7 +26,7 @@ And we need to be productive in such a setting and that's something that this te
 
 ## Part 1: Programming Problem
 
-> Jupyter solution [here](quicksort.ipynb) or [html][quicksort.html]
+> Jupyter solution [here](quicksort.ipynb) or [html](quicksort.html)
 
 1. Pick one of quick sort or merge sort and implement it in a language of your choice.
 2. Provide some discussion of time and space complexity. Assume that the input is a list of positive integers.
