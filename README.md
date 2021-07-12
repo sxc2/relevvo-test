@@ -26,14 +26,44 @@ And we need to be productive in such a setting and that's something that this te
 
 ## Part 1: Programming Problem
 
+### Solution
+
+#### Html / Source Code
+
 > Jupyter solution [here](quicksort.ipynb) or [html](quicksort.html)
 
-> Viewing the notebook in :
+#### Cloud Hosted Binder Link
+
+> Viewing the repository:
 
 > [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sxc2/relevvo-test/HEAD)
 
+> Viewing the direct link to the notebook in Binder:
 
-> [Direct Link to Jupyter Binder (mybinder.org)](https://mybinder.org/v2/gh/sxc2/relevvo-test/f3f1f496b16bb6230f3f96fed7242257265ffb6c)
+> [quicksort.ipynb](https://mybinder.org/v2/gh/sxc2/relevvo-test/f3f1f496b16bb6230f3f96fed7242257265ffb6c?filepath=quicksort.ipynb)
+
+##### Instructions
+
+1. Open https://mybinder.org/v2/gh/sxc2/relevvo-test/HEAD in Chrome/Firefox (Not Incognito/Not Private Browsing)
+2. Wait for repository to be loaded, usually a few seconds to a minute. Page will redirect to Jupyter environment
+3. Click/open `quicksort.ipynb` from list of files
+4. To rerun all cells: Cell -> Run All
+
+#### Setup JupyterLab Locally to Run Notebook
+
+##### Pre-requisites
+
+- [Install JupyterLab](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html)
+- [Start JupyterLab](https://jupyterlab.readthedocs.io/en/stable/getting_started/starting.html)
+
+##### Instructions
+
+1. `git clone https://github.com/sxc2/relevvo-test`
+2. from the browser where jupyterlab opened, navigate to the cloned repository location
+3. open `quicksort.ipynb` kernel
+4. To rerun all cells: Cell -> Run All
+
+----
 
 1. Pick one of quick sort or merge sort and implement it in a language of your choice.
 2. Provide some discussion of time and space complexity. Assume that the input is a list of positive integers.
