@@ -11,7 +11,7 @@ But first, I'd like to make clear as to what this test is not. We are interviewi
 the things we are lookng for are slightly different:
 
 1. Some communication polish expected of a senior person.
-2. In keeping with time pressure in a startup, some brevity and wit along with 1 above.
+2. In keeping with time pressure in a startup, some brevity and with along with 1 above.
 3. The ability to make quick trade-offs, usually in favour of simplicity and productivity at the expense of perfection but not to the extent that the solution is barely readable or barely scales.
 4. The ability to be resourceful. Or here is a trick question: What is the best code ever written?
 5. The ability to do TDD and insert intelligent comments and explanations within code. And in the same breath, to use advanced frameworks which might improve the performance and readability of the tests. And some intelligent selection of what is worth testing in the first place.
@@ -25,6 +25,8 @@ We are most likely going to work in a remote only setting. So, we are most likel
 And we need to be productive in such a setting and that's something that this test is trying to evaulate.
 
 ## Part 1: Programming Problem
+
+> Jupyter solution [here](quicksort.ipynb) or [html](quicksort.html)
 
 1. Pick one of quick sort or merge sort and implement it in a language of your choice.
 2. Provide some discussion of time and space complexity. Assume that the input is a list of positive integers.
@@ -45,3 +47,32 @@ Without being disresepctul or adversarial, please defend your choice. Try and fr
 Present a short written answer for this and prepare some thoughts for a verbal discussion.
 
 **YOU CAN ADD YOUR WRITTEN DISCUSSIONS BELOW IN THIS README**
+
+1. First, I would try to find common ground in appreciation for Golang.
+
+> Hey XYZ! Yea, Golang is pretty cool. The structural typing and built for concurrency aspects make it quite elegant compared to Python. It's great you keep up to date with these languages - what recent projects have you used Golang in?
+
+2. Second, I would ask XYZ questions about how feasible he thinks Golang is in our scenario, really dig down.
+
+> How would you implement the support for data processing of our json blobs in Golang?
+
+3. I would also ask about the feasibility or costs involved in switching over.
+
+> How long do you think it would take to rewrite and rearchitect this part of the data pipeline in Golang to take advantage of its concurrency? How much savings do you think it would incur?
+
+4. Then, I would add a little bit of background into why Python was picked in the first place.
+
+> Well, as you know, Python has been the choice for data scientists in the last few years, so given that we heavily rely on exploratory data analysis and machine learning models for our product, it was a natural pick. In addition, there's been extensive open source support for Python as the data science language - there's a library for almost everything, and it interfaces well with visualization tools (for our managers) and has tried and true pipelines for scaling up.
+
+> Also, we use Django for our web app dev stack, using Python as the data science language of choice has good synergy with the product. 
+
+5. Finally, given XYZ's previous responses, I would try to summarize the pros and cons of both with him.
+
+> Yea, Go is pretty great. Python is an older language, which also means there's more experienced developers, tried and true robust frameworks, libraries for just about anything you want, community support, integrations with many other product and business tools etc. 
+
+> I'm pretty excited about the growing support for GoLearn, as opposed to Sklearn in Python, and looking forward to learning more. At this stage of our startup, a robust dependable V1 product is our number one priority, and it's great that we keep up to date with potential better options down the line.
+
+> Switching or porting to a new language isn't always technical, there's the switching cost and we would need to do a cost benefit analysis as well as consider the stability and state of the product. This is not to mention that we hired an entire team of python developers, who should have some opinions on this matter as well.
+
+
+
