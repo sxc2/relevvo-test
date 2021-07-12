@@ -27,8 +27,12 @@ And we need to be productive in such a setting and that's something that this te
 ## Part 1: Programming Problem
 
 > Jupyter solution [here](quicksort.ipynb) or [html](quicksort.html)
+
 > Viewing the notebook in :
+
 > [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sxc2/relevvo-test/HEAD)
+
+
 > [Direct Link to Jupyter Binder (mybinder.org)](https://mybinder.org/v2/gh/sxc2/relevvo-test/f3f1f496b16bb6230f3f96fed7242257265ffb6c)
 
 1. Pick one of quick sort or merge sort and implement it in a language of your choice.
